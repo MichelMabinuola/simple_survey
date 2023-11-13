@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import yaml
 
 
 st.set_page_config(layout="wide", page_icon="ambulance", page_title="MyANON MetaVerse Counselling")
